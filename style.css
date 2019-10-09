@@ -60,5 +60,11 @@ background: #43A047;
 }
 
 .form .message a{
-    
+    color: #4CAF50;
+    text-decoration: none;
+
+}
+
+.form .register-form{
+    display: none;
 }
