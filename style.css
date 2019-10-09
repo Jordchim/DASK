@@ -52,3 +52,13 @@ body{
 background: #43A047;
 
 }
+
+.form .message{
+    margin: 15px 0 0;
+    color: cornflowerblue;
+    font-size: 12px;
+}
+
+.form .message a{
+    
+}
